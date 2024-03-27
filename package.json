@@ -1,0 +1,17 @@
+{
+  "name": "express-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:nemanjaNakomcic/nodex-express.git",
+  "author": "nemanjaNakomcic <nemanja.nakomcic@lilly021.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "scripts": {
+    "dev": "nodemon index.js"
+  }
+}
